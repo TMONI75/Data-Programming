@@ -3,3 +3,4 @@
 I intend to use this repository to store all the
 Data Programming Projects,Activities and Scripts 
 I authored or find interesting.
+The journey is been somewhat good so far.
